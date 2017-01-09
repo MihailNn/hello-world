@@ -1,2 +1,4 @@
 # hello-world
-new repository
+Hi 
+I am Mihail
+I study java script
